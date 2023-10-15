@@ -1,4 +1,4 @@
-# python-machine-learning
+# python-bank-machine-learning
 
 Created by Brian Chairez
 
